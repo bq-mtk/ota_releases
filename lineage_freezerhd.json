@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1634933969",
-      "filename": "lineage-15.1-20211022-UNOFFICIAL-freezerhd.zip",
-      "id": "4f13f79290c5461760c9fa0beadc0959",
+      "datetime": "1642090187",
+      "filename": "lineage-15.1-20220113-UNOFFICIAL-freezerhd.zip",
+      "id": "be7214dbfaf4192a205c27092fe2b54d",
       "romtype": "UNOFFICIAL",
-      "size": "492428597",
-      "url": "https://github.com/bq-mtk/ota_releases/releases/download/lineage-15.1-v2-freezerhd/lineage-15.1-20211022-UNOFFICIAL-freezerhd.zip",
+      "size": "492364422",
+      "url": "https://github.com/bq-mtk/ota_releases/releases/download/lineage-15.1-v3-freezerhd/lineage-15.1-20220113-UNOFFICIAL-freezerhd.zip",
       "version": "15.1"
     }
   ]
